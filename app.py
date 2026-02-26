@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 import pickle
 import pandas as pd
@@ -84,4 +84,4 @@ if st.button("Recommend Movies"):
     
     for movie in recommendations:
         st.write("👉", movie)
->>>>>>> 4d6d4c6f58bee4d018b3922c99910f5bd4cf46ad
+
